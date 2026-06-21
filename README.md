@@ -12,12 +12,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a humble Computer Engineering student at **Istanbul Kültür University** (currently in my 4th semester), with a curiosity that pulls me in several directions at once. My main interest lies in **computer networks** and **embedded systems**, where I feel most at home — but I'm also working my way toward becoming a **full-stack developer** who can build dynamic web applications from the ground up.
+I'm a humble Computer Engineering student at **Istanbul Kültür University** (currently in my 5th semester), with a curiosity that pulls me in several directions at once. My main interest lies in **computer networks** and **embedded systems**, where I feel most at home — but I'm also working my way toward becoming a **full-stack developer** who can build dynamic web applications from the ground up.
 
 On the side, I sharpen my skills through **CTF competitions** to grow as a cybersecurity practitioner, and I tinker with **indie game development** as a personal hobby. I enjoy the process of starting from a blank page and ending up with something that actually works.
 
 - 🌍 Based in **Istanbul, Turkey**
-- 🎓 2nd-year student at **Istanbul Kültür University**
+- 🎓 3rd-year student at **Istanbul Kültür University**
 - 🔭 Currently building toward a **full-stack** skill set
 - 🎮 Working on a small game project called **Knight's Quest**
 - 📫 Reach me at **salim.aslan503@gmail.com**
